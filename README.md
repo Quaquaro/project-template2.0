@@ -1,3 +1,18 @@
+# 🚀 React project-template
+
+This is my create-react-app-template. 
+The following things are included in the template:
+- Git Hub Actions
+- Husky
+- lintstaged
+- Prettier
+- ES-Lint
+- Storybook
+- styled-components
+- editorconfig
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
